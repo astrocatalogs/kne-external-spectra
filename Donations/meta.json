@@ -1,0 +1,65 @@
+{
+	"gw170817-gemini-day1.5-20170819.03.dat":{
+		"name":"GW170817",
+		"date":"2017/08/19.03",
+		"srcname":"Chornock et al. 2017",
+		"observer":"Ryan Chornock",
+		"instrument":"FLAMINGOS2",
+		"telescope":"Gemini-South",
+		"yunit":"erg/s/cm^2/Angstrom"
+	},
+	"gw170817-gemini-day10.5-20170828.01.dat":{
+		"name":"GW170817",
+		"date":"2017/08/28.01",
+		"srcname":"Chornock et al. 2017",
+		"observer":"Ryan Chornock",
+		"instrument":"FLAMINGOS2",
+		"telescope":"Gemini-South",
+		"yunit":"erg/s/cm^2/Angstrom"
+	},
+	"gw170817-gemini-day2.5-20170819.99.dat":{
+		"name":"GW170817",
+		"date":"2017/08/19.99",
+		"srcname":"Chornock et al. 2017",
+		"observer":"Ryan Chornock",
+		"instrument":"FLAMINGOS2",
+		"telescope":"Gemini-South",
+		"yunit":"erg/s/cm^2/Angstrom"
+	},
+	"gw170817-gemini-day4.5-20170821.99.dat":{
+		"name":"GW170817",
+		"date":"2017/08/21.99",
+		"srcname":"Chornock et al. 2017",
+		"observer":"Ryan Chornock",
+		"instrument":"FLAMINGOS2",
+		"telescope":"Gemini-South",
+		"yunit":"erg/s/cm^2/Angstrom"
+	},
+	"gw170817-gemini-day7.5-20170825.00.dat":{
+		"name":"GW170817",
+		"date":"2017/08/25.00",
+		"srcname":"Chornock et al. 2017",
+		"observer":"Ryan Chornock",
+		"instrument":"FLAMINGOS2",
+		"telescope":"Gemini-South",
+		"yunit":"erg/s/cm^2/Angstrom"
+	},
+	"gw170817-gemini-day8.5-20170826.01.dat":{
+		"name":"GW170817",
+		"date":"2017/08/26.01",
+		"srcname":"Chornock et al. 2017",
+		"observer":"Ryan Chornock",
+		"instrument":"FLAMINGOS2",
+		"telescope":"Gemini-South",
+		"yunit":"erg/s/cm^2/Angstrom"
+	},
+	"gw170817-gemini-day9.5-20170827.01.dat":{
+		"name":"GW170817",
+		"date":"2017/08/27.01",
+		"srcname":"Chornock et al. 2017",
+		"observer":"Ryan Chornock",
+		"instrument":"FLAMINGOS2",
+		"telescope":"Gemini-South",
+		"yunit":"erg/s/cm^2/Angstrom"
+	}
+}
