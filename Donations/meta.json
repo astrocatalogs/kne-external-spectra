@@ -171,5 +171,65 @@
 		"instrument":"LDSS3",
 		"telescope":"Magellan",
 		"yunit":"erg/s/cm^2/Angstrom"
+	},
+	"AT2017gfo_EFOSC2_20170818_photcal.dat":{
+		"name":"GW170817",
+		"time":"57983.971662",
+		"u_time":"MJD",
+		"bibcode":"2017arXiv171005841S",
+		"observer":"Stephen Smartt",
+		"instrument":"EFOSC2",
+		"telescope":"NTT",
+		"yunit":"erg/s/cm^2/Angstrom"
+	},
+	"AT2017gfo_EFOSC2_20170819_photcal.dat":{
+		"name":"GW170817",
+		"time":"57984.976164",
+		"u_time":"MJD",
+		"bibcode":"2017arXiv171005841S",
+		"observer":"Stephen Smartt",
+		"instrument":"EFOSC2",
+		"telescope":"NTT",
+		"yunit":"erg/s/cm^2/Angstrom"
+	},
+	"AT2017gfo_EFOSC2_20170820_photcal.dat":{
+		"name":"GW170817",
+		"time":"57985.973069",
+		"u_time":"MJD",
+		"bibcode":"2017arXiv171005841S",
+		"observer":"Stephen Smartt",
+		"instrument":"EFOSC2",
+		"telescope":"NTT",
+		"yunit":"erg/s/cm^2/Angstrom"
+	},
+	"AT2017gfo_XSH_20170819_combinedarms_photcal.dat":{
+		"name":"GW170817",
+		"time":"57984.978309",
+		"u_time":"MJD",
+		"bibcode":"2017arXiv171005841S",
+		"observer":"Stephen Smartt",
+		"instrument":"Xshooter",
+		"telescope":"VLT",
+		"yunit":"erg/s/cm^2/Angstrom"
+	},
+	"AT2017gfo_XSH_20170821_combinedarms_photcal.dat":{
+		"name":"GW170817",
+		"time":"57986.976138",
+		"u_time":"MJD",
+		"bibcode":"2017arXiv171005841S",
+		"observer":"Stephen Smartt",
+		"instrument":"Xshooter",
+		"telescope":"VLT",
+		"yunit":"erg/s/cm^2/Angstrom"
+	},
+	"AT2017gfo_SOFI_20170821_photcal.dat":{
+		"name":"GW170817",
+		"time":"57986.966396",
+		"u_time":"MJD",
+		"bibcode":"2017arXiv171005841S",
+		"observer":"Stephen Smartt",
+		"instrument":"SOFI",
+		"telescope":"NTT",
+		"yunit":"erg/s/cm^2/Angstrom"
 	}
 }
