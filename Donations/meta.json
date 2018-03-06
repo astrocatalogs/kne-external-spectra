@@ -1,4 +1,49 @@
 {
+	"GW170817_F2_HK_20170822.dat":{
+		"name":"GW170817",
+		"date":"2017/08/22",
+		"bibcode":"2017Sci...358.1559K",
+		"observer":"Mansi Kasliwal",
+		"instrument":"F2",
+		"telescope":"Gemini-South",
+		"yunit":"erg/s/cm^2/Angstrom"
+	},
+	"GW170817_F2_JH_20170822.dat":{
+		"name":"GW170817",
+		"date":"2017/08/22",
+		"bibcode":"2017Sci...358.1559K",
+		"observer":"Mansi Kasliwal",
+		"instrument":"F2",
+		"telescope":"Gemini-South",
+		"yunit":"erg/s/cm^2/Angstrom"
+	},
+	"GW170817_GMOS_20170820.dat":{
+		"name":"GW170817",
+		"date":"2017/08/20",
+		"bibcode":"2017Sci...358.1559K",
+		"observer":"Mansi Kasliwal",
+		"instrument":"GMOS",
+		"telescope":"Gemini-South",
+		"yunit":"erg/s/cm^2/Angstrom"
+	},
+	"GW170817_GMOS_20170821.dat":{
+		"name":"GW170817",
+		"date":"2017/08/21",
+		"bibcode":"2017Sci...358.1559K",
+		"observer":"Mansi Kasliwal",
+		"instrument":"GMOS",
+		"telescope":"Gemini-South",
+		"yunit":"erg/s/cm^2/Angstrom"
+	},
+	"GW170817_LRIS_20170825.dat":{
+		"name":"GW170817",
+		"date":"2017/08/25",
+		"bibcode":"2017Sci...358.1559K",
+		"observer":"Mansi Kasliwal",
+		"instrument":"LRIS",
+		"telescope":"Gemini-South",
+		"yunit":"erg/s/cm^2/Angstrom"
+	},
 	"gw170817-gemini-day1.5-20170819.03.dat":{
 		"name":"GW170817",
 		"date":"2017/08/19.03",
